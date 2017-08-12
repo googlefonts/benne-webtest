@@ -1,6 +1,6 @@
 # Benne
 
-Benne is an open-source typeface designed and developed by [Shandon Type](https://shandontype.com) with finaincial support from Google and consulting by Erin Mclaughlin. It is a text font with an intended context of text rich documents of medium/long lengths. As it was designed to harmonise with the Latin font EB Garamond (originally designed by Georg Duffner), it works well in multiscript environments. 
+Benne is an open-source typeface designed and developed by [Shandon Type](http://shandontype.com) with finaincial support from Google and consulting by Erin Mclaughlin. It is a text font with an intended context of text rich documents of medium/long lengths. As it was designed to harmonise with the Latin font EB Garamond (originally designed by Georg Duffner), it works well in multiscript environments. 
 
 # Language Support
 Benne is a unicode font that supports a wide variety of languages across two scripts including Kannada, Konkani, Sankethi and Tulu, as well as the major Latin-based Central European (CE) languages. It can also be expanded to support other related writing systems. 
